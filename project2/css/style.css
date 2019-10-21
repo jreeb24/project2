@@ -1,0 +1,19 @@
+* {
+	margin 0;
+	pading 0;
+	box-sizing 0;
+}
+
+body {
+	font-family: Oxygen, Arial, sans-serif;
+	color: #fff;
+	margin: 0;
+
+	background-image: url("../images/stormy-weather-background.jpg");
+}
+		blockquote { width: 25%; background: rgba(0,0,0,0.6); 
+		padding: 1.5rem;
+		border:4px double #fff; 
+		margin-left: 5rem; 
+		margin-top: 5rem; 
+		} 
